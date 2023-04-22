@@ -11,5 +11,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `npm run eject`
 
-
-## 'https://youtubeclonebybeerappa.netlify.app/'
+The build website link is: 
+### 'https://youtubeclonebybeerappa.netlify.app/'
