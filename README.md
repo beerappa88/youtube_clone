@@ -9,7 +9,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `npm run build`
 
-### `npm run eject`
-
 The build website link is: 
 ### 'https://youtubeclonebybeerappa.netlify.app/'
