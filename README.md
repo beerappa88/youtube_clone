@@ -7,7 +7,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `npm test`
 
-### `npm run build`
+### `npm run build` 
 
-The build website link is: 
+The build website is netlify and the link is:
 ### 'https://youtubeclonebybeerappa.netlify.app/'
